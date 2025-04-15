@@ -26,29 +26,30 @@
 
 <summary> Interests </summary>
 
-ㅤ***8:11***
-ㅤ***Egg Kevin's House***
-ㅤThe Salvation Project
-ㅤSquirrel Staplerㅤ
-ㅤ***Julia was Alone***
-ㅤThe fairy tales analog horror
-ㅤChoose or die
-ㅤEverything everywhere all at once
-ㅤ***Orange Roulette***
-ㅤLife purposeㅤ
-ㅤDeardere
-ㅤ***Studio Investigrave***
-ㅤ***Lummony***
-ㅤGospel of Eve
-ㅤ***Roblox args***
-ㅤSilver Thread
-ㅤEndzone
-ㅤ*Redcarkyle123*
-ㅤ*Senprista*
-ㅤLaw of Talos
-ㅤCastle of Nations
-ㅤDo NOT take thIs caT home
-ㅤClassmates
+***8:11***
+ㅤ•ㅤ***Egg Kevin's House*** 
+ㅤ•ㅤThe Salvation Project 
+ㅤ•ㅤSquirrel Stapler 
+ㅤ•ㅤ***Julia was Alone***
+ㅤ•ㅤThe fairy tales analog horror
+ㅤ•ㅤEndzone
+ㅤ•ㅤ***Orange Roulette***
+ㅤ•ㅤLife purpose
+ㅤ•ㅤDeardere
+ㅤ•ㅤ***Studio Investigrave***
+ㅤ•ㅤ***Lummony***
+ㅤ•ㅤGospel of Eve
+ㅤ•ㅤOobja
+ㅤ•ㅤSilver Thread
+ㅤ•ㅤEverything everywhere all at once
+ㅤ•ㅤ*Redcarkyle123*
+ㅤ•ㅤ*Senprista*
+ㅤ•ㅤLaw of Talos
+ㅤ•ㅤCastle of Nations
+ㅤ•ㅤ***Roblox args***
+ㅤ•ㅤChoose or die
+ㅤ•ㅤClassmates
+ㅤ•ㅤDo NOT take thIs caT home
 
 
 </details>
