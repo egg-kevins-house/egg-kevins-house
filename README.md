@@ -29,7 +29,7 @@
 ***8:11***
 ㅤ•ㅤ***Egg Kevin's House*** 
 ㅤ•ㅤThe Salvation Project 
-ㅤ•ㅤSquirrel Stapler 
+ㅤ•ㅤ*Squirrel Stapler* 
 ㅤ•ㅤ***Julia was Alone***
 ㅤ•ㅤThe fairy tales analog horror
 ㅤ•ㅤEndzone
@@ -40,6 +40,7 @@
 ㅤ•ㅤ***Lummony***
 ㅤ•ㅤGospel of Eve
 ㅤ•ㅤOobja
+ㅤ•ㅤ***Diner in the storm***
 ㅤ•ㅤSilver Thread
 ㅤ•ㅤEverything everywhere all at once
 ㅤ•ㅤ*Redcarkyle123*
